@@ -1,5 +1,5 @@
 {
-  "app": "npx ts-node --prefer-ts-exts bin/growth-day-2022-aws.ts",
+  "app": "npx ts-node --prefer-ts-exts bin/growth-day-2022-aws-james-moughon.ts",
   "watch": {
     "include": [
       "**"

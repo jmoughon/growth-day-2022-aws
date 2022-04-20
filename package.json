@@ -1,8 +1,8 @@
 {
-  "name": "growth-day-2022-aws",
+  "name": "growth-day-2022-aws-james-moughon",
   "version": "0.1.0",
   "bin": {
-    "growth-day-2022-aws": "bin/growth-day-2022-aws.js"
+    "growth-day-2022-aws-james-moughon": "bin/growth-day-2022-aws-james-moughon.js"
   },
   "scripts": {
     "build": "tsc",
