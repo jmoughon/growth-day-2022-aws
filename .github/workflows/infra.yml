@@ -25,6 +25,9 @@ jobs:
 
       - run: npm install
 
+      - name: Bootstrap stack
+        run: npm run cdk bootstrap
+
       - name: Synth stack
         run: npm run cdk synth
 
